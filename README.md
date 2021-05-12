@@ -20,4 +20,4 @@ what is Prop?
 [ A piece of date that transfers from parent comp. to child component]
 
 Please configure your package.json whenever you're deploying.
-Check on this project: https://rajulearner.github.io/nameit/
+Check on this project: https://RajuGujjalapati.github.io/nameit/
